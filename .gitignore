@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+
+.env
+petproject/node_modules
+petproject/package-lock.json
